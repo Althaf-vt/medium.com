@@ -1,0 +1,242 @@
+
+
+body{
+    margin: 0;
+    background: #F7F4ED;
+
+}
+.main-body{
+    
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    
+}
+
+
+.header{
+    width: 100%;
+    height: 75px;
+    background: #F7F4ED;
+}
+.line-1{
+    width: 1536px;
+    margin-top: -10px;    
+}
+hr{
+    height: 0.5px;
+    background-color: black;
+    border: none;
+}
+.header-left-section{
+    width: 60%;
+    height: 75px;
+    margin-top: px;
+    background: #F7F4ED;
+    float: left;
+
+}
+.medium-logo{
+    display: block;
+    margin-left: 168px;
+    margin-top: 21px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 31px;
+    text-decoration: none;
+    color: rgba(0,0,0,0.8);
+    letter-spacing: -3px;
+    box-sizing: border-box;
+
+}
+.header-right-section{
+    width: 40%;
+    height: 75px;
+    float: left;
+    
+}
+.our-story{
+    display: block;
+    margin-top: 30px;
+    margin-left: 26px;
+    box-sizing: border-box;
+    font-size: 13.4px;
+    font-weight: 550;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #242424;
+    float: left;
+}
+
+.Membership{
+    display: block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 23px;
+    box-sizing: border-box;
+    font-size: 13.4px;
+    font-weight: 550;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #242424;
+}
+
+.Write{
+    display: block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    font-size: 13.4px;
+    font-weight: 550;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #242424;
+}
+
+.Sign-in{
+    display: block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 24px;
+    box-sizing: border-box;
+    font-size: 13.4px;
+    font-weight: 550;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #242424;
+}
+.get-started{
+    box-sizing: border-box;
+    width: 105px;
+    height: 38px;
+    margin-top: 18px;
+    margin-left: 23px;
+    background: rgba(25, 25, 25, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    text-align: center;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 550;
+    cursor: pointer;
+}
+.middle-body{
+    width: 100%;
+
+}
+
+.section{
+    width: 60%;
+    height: 543px;
+    background: #F7F4ED;
+    float: left;
+}
+.section-main-text{
+    margin-left: 170px;
+    margin-top: 113px;
+    letter-spacing: -0.055em;
+    line-height: 100px;
+    color: #242424;
+    font-size: 120px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    
+}
+.section-sub-text{
+    margin-left: 173px;
+    margin-top: -46px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.start-reading{
+    margin-left: 170px;
+    margin-top: 25px;
+    background: rgba(25, 25, 25, 1);
+    color: rgb(255, 255, 255);
+    border-radius: 99em;
+    width: 196px;
+    height: 47px;
+    font-size: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 400px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(25, 25, 25, 1);
+
+}
+
+.aside{
+    width: 40%;
+    height: 543px;
+    background: #F7F4ED;
+    float: left;
+    margin-top: -5px;
+}
+.image{
+    width: 460px;
+    height:110%;
+    margin-top: -10px;
+    margin-left: 154px;
+    vertical-align: middle;
+    overflow: hidden;
+    
+}
+aside{
+    overflow: hidden;
+
+}
+
+
+
+.line-2{
+
+width: 1536px;
+margin-bottom: 4px
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    
+}
+ul{
+    list-style: none;
+
+
+}
+   /* width:50px; 
+   display: flex;
+    justify-content: center;
+}
+.footer-text li{
+    padding-right: 15px;
+}
+
+.footer-div{
+    width: 100%;
+}*/
+
+.footer-text{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    color: rgb(107, 107, 107);
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: -172px;
+    margin-top: -1px;
+
+}
+
+.footer-text li{
+    padding: 9px;
+}
+.footer-text:hover{
+    cursor: pointer;
+}
+.start-reading:hover{
+    cursor: pointer;
+}
+
+
